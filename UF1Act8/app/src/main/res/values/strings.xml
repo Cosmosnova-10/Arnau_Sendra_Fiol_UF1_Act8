@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UF1Act8</string>
+    <string name="Matriculació">Matriculació</string>
+    <string name="Català">Català</string>
+    <string name="Castellà">Castellà</string>
+    <string name="Matemàtiques">Matemàtiques</string>
+    <string name="Matí">Matí</string>
+    <string name="Tarda">Tarda</string>
+    <string name="Confirma">Confirma</string>
+</resources>
